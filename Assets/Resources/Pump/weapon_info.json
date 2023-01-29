@@ -1,0 +1,6 @@
+{
+  "id": "pump",
+  "weaponPrefabPath": "Pump/WeaponPrefab/Pump Shotgun",
+  "meshPath": "Pump/Models/Display Pump",
+  "displayName": "Pump Shotgun"
+}
